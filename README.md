@@ -4,31 +4,49 @@ CEO / CTO @ AspiraGlobal
 
 Building **Aspira OS** — a platform for hiring, talent intelligence, and workforce infrastructure.
 
-## What I'm focused on
+---
 
-- Scaling Aspira OS
-- Solving hard-to-fill roles with precision
-- Building AI-assisted + agentic hiring systems
-- Creating infrastructure for modern distributed teams
+## 🚀 What is Aspira OS?
 
-## Principles
+Aspira OS is a hybrid platform designed to:
 
-- Speed with precision
-- Product > service
-- High standards, no shortcuts
-- Build systems that actually execute
+- Hire high-quality talent with precision  
+- Fill hard-to-place roles  
+- Operate workforce infrastructure (payroll, HMO, ops)  
+- Enable AI-assisted + agentic execution  
 
-## About Aspira
+This replaces fragmented hiring workflows with a unified system.
+
+---
+
+## ⚙️ Focus
+
+- Productizing hiring + talent infrastructure  
+- Building agentic AI systems for execution  
+- Scaling a global talent network  
+- Speed with precision  
+
+---
+
+## 🧱 Principles
+
+- Product > service  
+- High standards, zero tolerance for low-quality execution  
+- Systems that execute, not just inform  
+- Build fast, refine continuously  
+
+---
+
+## 🌐 About AspiraGlobal
 
 AspiraGlobal is a tech + talent infrastructure company.
 
-We help companies:
-- Hire high-quality Filipino talent
-- Fill difficult roles
-- Operate workforce infrastructure (payroll, HMO, ops)
+We are not a staffing agency.
 
-This is powered by **Aspira OS**, our core platform.
+We are building systems to modernize how companies hire and operate globally.
 
-## Connect
+---
+
+## 🔗 Links
 
 - Website: https://aspiraglobal.biz
