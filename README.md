@@ -1,25 +1,14 @@
-
-
 <p align="center">
   <img src="https://aspiraglobal.biz/wp-content/uploads/2026/03/Aspira-OS-Platform.png" alt="Aspira OS Platform" width="100%" />
 </p>
 
 # Aspira OS
 
-Operating system for hiring, talent intelligence, and workforce infrastructure.
-
-
-
-
-# Rob Bramwell
-
-CEO / CTO @ AspiraGlobal
-
-Building **Aspira OS** — a platform for hiring, talent intelligence, and workforce infrastructure.
+**Operating system for hiring, talent intelligence, and workforce infrastructure.**
 
 ---
 
-## 🚀 Aspira OS
+## 🚀 What is Aspira OS?
 
 Aspira OS is a hybrid platform designed to:
 
@@ -28,38 +17,43 @@ Aspira OS is a hybrid platform designed to:
 - Operate workforce infrastructure (payroll, HMO, ops)  
 - Enable AI-assisted + agentic execution  
 
-It replaces fragmented hiring workflows with a unified execution layer.
+It replaces fragmented hiring workflows with a unified execution layer — combining talent, systems, and execution into one platform.
 
 ---
 
-## ⚙️ Focus
+## ⚙️ What we're building
 
-- Productizing hiring + talent infrastructure  
-- Building agentic AI systems for execution  
-- Scaling a global talent network  
-- Speed with precision  
+- Hiring infrastructure, not manual recruitment  
+- Talent intelligence systems  
+- Agentic AI for execution, not just insights  
+- Scalable global workforce operations  
 
 ---
 
 ## 🧱 Principles
 
+- Speed with precision  
 - Product > service  
 - High standards, zero tolerance for low-quality execution  
 - Systems that execute, not just inform  
-- Build fast, refine continuously  
 
 ---
 
-## 🌐 About AspiraGlobal
+## 🌐 About Aspira Global
 
-AspiraGlobal is a tech + talent infrastructure company.
+Aspira Global is a tech + talent infrastructure company.
 
-We are not a staffing agency.
+We help companies:
+- Hire high-quality Filipino talent  
+- Fill difficult roles  
+- Operate workforce infrastructure  
 
-We are building systems to modernize how companies hire and operate globally.
+We are not a staffing agency.  
+We are building the system behind modern hiring.
 
 ---
 
-## 🔗 Links
+## 🔗 Work with us
 
-- Website: https://aspiraglobal.biz
+- 🌐 https://aspiraglobal.biz  
+- 📩 hello@aspiraglobal.com
