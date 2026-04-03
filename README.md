@@ -6,7 +6,7 @@ Building **Aspira OS** — a platform for hiring, talent intelligence, and workf
 
 ---
 
-## 🚀 What is Aspira OS?
+## 🚀 Aspira OS
 
 Aspira OS is a hybrid platform designed to:
 
@@ -15,7 +15,7 @@ Aspira OS is a hybrid platform designed to:
 - Operate workforce infrastructure (payroll, HMO, ops)  
 - Enable AI-assisted + agentic execution  
 
-This replaces fragmented hiring workflows with a unified system.
+It replaces fragmented hiring workflows with a unified execution layer.
 
 ---
 
