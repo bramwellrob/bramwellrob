@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://aspiraglobal.biz/wp-content/uploads/2026/03/Aspira-OS-Platform.png" alt="Aspira OS Platform" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://aspiraglobal.biz/wp-content/uploads/2026/03/Aspira-OS-Platform.png" alt="Aspira OS Platform" width="100%" />
