@@ -39,9 +39,9 @@ It replaces fragmented hiring workflows with a unified execution layer — combi
 
 ---
 
-## 🌐 About Aspira Global
+## 🌐 About AspiraGlobal
 
-Aspira Global is a tech + talent infrastructure company.
+AspiraGlobal is a tech + talent infrastructure company.
 
 We help companies:
 - Hire high-quality Filipino talent  
@@ -56,4 +56,4 @@ We are building the system behind modern hiring.
 ## 🔗 Work with us
 
 - 🌐 https://aspiraglobal.biz  
-- 📩 hello@aspiraglobal.com
+- 📩 info@aspiraglobal.com
